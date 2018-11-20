@@ -1,0 +1,36 @@
+ul {
+
+  list-style-type: none;
+  display: inline;
+
+}
+
+li {
+
+
+display: inline;
+
+}
+
+a {
+
+
+  text-decoration: none;
+
+
+}
+
+
+.entireleftandright {
+
+
+  display: flex;
+  flex-direction: row;
+  align-items: space-around;  
+  justify-content: center;
+  
+
+}
+
+
+
