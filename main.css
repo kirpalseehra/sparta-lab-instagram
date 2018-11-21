@@ -28,9 +28,46 @@ a {
   flex-direction: row;
   align-items: space-around;  
   justify-content: center;
+  text-align: center;
   
 
 }
+
+form {
+
+
+  display: flex;
+  flex-direction: column;
+  flex-wrap:wrap;
+  padding: 1px;
+
+
+
+}
+
+.btn {
+
+  background-color: rgb(59,89,152);
+
+
+
+}
+
+.sub {
+
+
+  background-color: rgb(59,89,152);
+
+}
+
+h4 {
+
+
+  color: grey;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
 
 
 
